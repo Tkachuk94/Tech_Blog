@@ -50,8 +50,11 @@ main {
   width: 94%;
 }
 
-a {
+.center {
   text-decoration: none;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 p {
