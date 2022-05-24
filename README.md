@@ -22,6 +22,7 @@ Once the server is running, the user will first be introduced to the homepage th
 
 ## Screenshot
 ![screenshot of homepage](./Screenshot.png)
+https://trentstechblog.herokuapp.com/
 
 ## Technologies Used
 * bcrypt
